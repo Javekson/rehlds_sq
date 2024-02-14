@@ -14,6 +14,13 @@
 - Согласен... Но продолжатели Dproto -> Reunion не дали API для скрытия хотя бы кваров.
 </pre>
 
+
+## Сборка проекта
+<pre>
+Windows: Открываете rehlds_sq.sln
+Linux: Запускаете compile.sh
+</pre>
+
 # Commands
 sq_help
 
